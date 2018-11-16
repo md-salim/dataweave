@@ -4215,7 +4215,7 @@ You can reference any *Property* (System or Spring) that exists in the server wh
 
 == See Also
 
-* link:/anypoint-studio/v/5/using-dataweave-in-studio[Using DataWeave in Studio]
-* link:/mule-user-guide/v/3.7/dataweave-examples[DataWeave Examples]
-* link:/mule-user-guide/v/3.7/dataweave-tutorial[DataWeave Tutorial]
-* link:https://www.mulesoft.com/platform/studio[Anypoint Studio]
+* link:https://blogs.mulesoft.com/dev/anypoint-studio-dev/getting-started-with-dataweave-part-1[getting-started-with-dataweave-part-1]
+* link:https://blogs.mulesoft.com/dev/getting-started-with-dataweave-part-2[getting-started-with-dataweave-part-2]
+* link:https://blogs.mulesoft.com/dev/getting-started-with-dataweave-part-3[getting-started-with-dataweave-part-3]
+* link:https://blogs.mulesoft.com/dev/getting-started-with-dataweave-part-4[getting-started-with-dataweave-part-4]
